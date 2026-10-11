@@ -81,3 +81,14 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Parthh1002&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br/>
+
+<h2 align="center">🐍 3D Animated Contribution Grid</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parthh1002/Parthh1002/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parthh1002/Parthh1002/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Parthh1002/Parthh1002/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
