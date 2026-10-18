@@ -6,8 +6,8 @@
 <h3 align="center">🚀 A passionate Full-Stack Developer & Open-Source Contributor from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Parthh1002&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Parthh1002 Views" />
-  <a href="https://github.com/Parthh1002"><img src="https://img.shields.io/github/followers/Parthh1002?label=Follow%20%40Parthh1002&style=flat-square&color=blue" alt="Follow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Parthh1002&label=%F0%9F%91%81%EF%B8%8F%20VIEWS&style=flat-square&color=7928ca" alt="Parth Profile Views" />
+  <a href="https://github.com/Parthh1002"><img src="https://img.shields.io/github/followers/Parthh1002?label=Follow%20%40Parthh1002&style=flat-square&logo=github&color=0969da" alt="Follow @Parthh1002" /></a>
   <img src="https://img.shields.io/badge/GitHub-Developer%20Program%20Member-0969da?style=flat-square&logo=github" alt="Developer Program Member" />
   <img src="https://img.shields.io/badge/Streak-371%2B%20Days%20Active-2ea44f?style=flat-square&logo=git" alt="Streak" />
 </p>
@@ -33,18 +33,29 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://parthpatel-ashy.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web-development.svg" alt="portfolio" height="30" width="40" /></a>
-  <a href="mailto:parthh1002@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/parthpatel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://leetcode.com/Parthh1002" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/parth-patel-468772336" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/Parthh1002" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://parthpatel-ashy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:parthh1002@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Parthh1002" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
